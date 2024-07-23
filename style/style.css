@@ -1,0 +1,32 @@
+.color{
+    background-color: white;
+    max-width: 600px;
+    height:300px;
+    margin: 100px auto;
+    padding-top: 30px;
+    border-radius: 8px;
+}
+.colorname{
+    background-color: black;
+    max-width: 200px;
+    height: 30px;
+    margin: 110px auto;
+    color:white;
+    padding-top: 10px;
+    border-radius:8px ;
+}
+body{
+    background-color: #EEEDEB;
+}
+p{
+    text-align: center;
+}
+button{
+    align-items: center;
+    margin-left:285px;
+    border: none;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
